@@ -1,0 +1,22 @@
+.bg-image {
+  background-image: url("C:\Users\pc\Pictures\2.PNG");
+  background-repeat: no-repeat;
+  height: 50px;
+}
+#div1 {
+  background-color: blue;
+  border-radius: 2px;
+  border-color: papayawhip;
+  border-width: 1px;
+  border-style: outset;
+}
+.Card1 {
+  height: 85%;
+}
+.Card1:hover{
+  background-color: lightblue;
+}
+.img1{
+  background-image: url("./images/dataanalysis.jpeg");
+ 
+}
